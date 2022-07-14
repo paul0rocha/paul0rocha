@@ -1,3 +1,4 @@
+- 👻  Paulo Rocha
 - 💻 Computer Engineering Student
 - 🌋 Node JS - Oracle SQL - MYSQL - Arduino ✔
 
