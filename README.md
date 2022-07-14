@@ -1,5 +1,3 @@
-## Oiii eu sou a Paulo Rocha!
-
 - 💻 Computer Engineering Student
 - 🌋 Node JS - Oracle SQL - MYSQL - Arduino ✔
 
