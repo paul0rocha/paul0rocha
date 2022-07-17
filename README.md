@@ -3,7 +3,7 @@
 - 🌋 Node JS - Oracle SQL - MYSQL - Arduino ✔
 
 <div>
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/paul0rocha">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=paul0rocha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paul0rocha&layout=compact&langs_count=150&theme=dracula"/>
 </div>
