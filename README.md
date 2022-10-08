@@ -8,5 +8,4 @@ Computer engineering student  at Fancens <br>
 [Instagram](https://www.instagram.com/_paulo_rocha/) <br>
 [LinkedIn](https://www.linkedin.com/in/pauloroch/) <br>
 
-🇧🇷 Born in Maranhao , Brazil <br>
 🇳🇱 Living in Sao Paulo, The Brazil <br>
