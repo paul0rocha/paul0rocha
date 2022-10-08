@@ -21,4 +21,3 @@ BR Living in Sao Paulo, The Brazil <br>
      
 
    </div>
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=paul0rocha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
