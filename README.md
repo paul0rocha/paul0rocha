@@ -21,3 +21,6 @@ BR Living in Sao Paulo, The Brazil <br>
      
 
    </div>
+   <a href = "pauloseng80@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://instagram.com/_paulo_rocha" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    
