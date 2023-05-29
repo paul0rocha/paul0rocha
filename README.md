@@ -2,7 +2,7 @@
  
 Computer engineering student  at Fancens <br>
 
-Crio e desenvolvo ideias em forma de software e consultas plsql usando minha criatividade e meu conhecimento técnico em Python/SQL construindo relatórios e análises de dados.
+I create and develop ideas in the form of software and plsql queries using my creativity and my technical knowledge in Python / SQL building reports and data analysis.
 
 ⚡ <br>
 
