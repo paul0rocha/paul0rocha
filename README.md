@@ -2,6 +2,10 @@
  
 Computer engineering student  at Fancens <br>
 
+Crio e desenvolvo ideias em forma de software e consultas plsql usando minha criatividade e meu conhecimento técnico em Python/SQL construindo relatórios e análises de dados.
+
+⚡ <br>
+
 ### Find me elsewhere 🌎
 
 
@@ -9,6 +13,8 @@ Computer engineering student  at Fancens <br>
 [LinkedIn](https://www.linkedin.com/in/pauloroch/) <br>
 
 BR Living in Sao Paulo, The Brazil <br>
+
+
 
  <div style="display: inline_block"><br>
      <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
