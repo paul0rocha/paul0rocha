@@ -1,6 +1,6 @@
 ### Hey, I'm Paulo Rocha! 👋
  
-Computer engineering student  at Fancens <br>
+Software engineering student <br>
 
 I create and develop ideas in the form of software and plsql queries using my creativity and my technical knowledge in Python / SQL building reports and data analysis.
 
