@@ -1,8 +1,8 @@
 ### Hey, I'm Paulo Rocha! 👋
  
-Software engineering student <br>
+I work as a Systems Analyst, helping to create and implement new projects for clients. I handle all stages, from planning and creating test scripts to ensuring the project is successfully completed. I have experience in system integrations and logistics projects.
 
-I create and develop ideas in the form of software and plsql queries using my creativity and my technical knowledge in Python / SQL building reports and data analysis.
+I develop solutions using software and PL/SQL queries, as well as Python and SQL, to build reports, analyze data, and optimize processes. I have experience with API integrations (including n8n/IA), developing advanced queries, creating reports, and implementing systems for transportation logistics operations.
 
 ⚡ <br>
 
