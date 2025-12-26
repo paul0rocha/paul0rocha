@@ -1,6 +1,6 @@
 ### Hey, I'm Paulo Rocha! 👋
  
-I work as a Systems Analyst, helping to create and implement new projects for clients in the logistics area (transport and warehouse). I oversee all stages, from planning and creating tests to completing the project. I have experience in system integrations and logistics projects.
+I work as a Systems Analyst, executing and supporting new projects for clients in the logistics area (transport and warehouse). I participate in all stages, from planning and creating tests to completing the project. I have experience in system integrations and logistics projects.
 
 I develop solutions using software, PL/SQL, Python, and SQL to create reports, analyze data, and improve processes. I also have experience with API integrations (including n8n/AI), creating reports with Power BI, and implementing systems for logistics operations.
 
