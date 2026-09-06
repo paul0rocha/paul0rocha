@@ -11,6 +11,8 @@ I develop solutions using software, PL/SQL, Python, and SQL to create reports, a
 
 [Instagram](https://www.instagram.com/_paulo_rocha/) <br>
 [LinkedIn](https://www.linkedin.com/in/pauloroch/) <br>
+[Beecrowd](https://judge.beecrowd.com/en/profile/444390) <br>
+
 
 BR Living in Sao Paulo, The Brazil <br>
 
